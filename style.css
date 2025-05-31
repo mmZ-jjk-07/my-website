@@ -1,8 +1,9 @@
 body{
     text-align: center;
-    font-family: 'Arial';
-    background:lightskyblue
+    font-family: 'Luminari';
+    p {color: darkcyan}
+    background:lavender
 }
 img{
-    width: 200px;
+    width: 500px;
 }
